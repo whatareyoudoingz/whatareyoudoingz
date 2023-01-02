@@ -22,13 +22,19 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />	
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
+	
+</div>
+
+<div align="center">
 	<img src="https://img.shields.io/badge/R studio-75AADB?style=flat&logo=Rstudio&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter notebook-F37626?style=flat&logo=jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
 </div>
 
+<div align="center">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" />
+</div>
 <br/>
 
 ## **Activity State**
