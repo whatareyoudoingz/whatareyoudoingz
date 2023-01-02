@@ -34,6 +34,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
 <br/>
 
