@@ -11,6 +11,8 @@
 
 **관심분야** : `환경` , `의료`
 
+**기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)
+
 **관련 프로젝트 대환영입니다!**
 
 현재 재활용 아이디어 웹개발을 위해 공부하고 있습니다.
