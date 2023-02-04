@@ -15,7 +15,9 @@
 
 **기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)
 
-현재 재활용 아이디어 웹개발을 위해 공부하고 있습니다.
+**현재**
+- 재활용 아이디어 웹개발 공부
+- 재활용 아이디어 해커톤 진행중
 
 <br/>
 
