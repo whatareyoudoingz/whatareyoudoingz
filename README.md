@@ -11,8 +11,6 @@
 
 **관심분야** : `환경` , `의료`
 
-**관련 프로젝트 대환영입니다!**
-
 **기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)
 
 **현재**
