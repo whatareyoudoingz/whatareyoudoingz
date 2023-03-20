@@ -27,8 +27,6 @@
     	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 </div>
 
-### **FullStack**
-
 <div align="center">
 	<h5>FullStack</h5>
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
