@@ -31,6 +31,8 @@
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudiocode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter notebook-F37626?style=flat&logo=jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+	
 </div>
 
 <div align="center">
