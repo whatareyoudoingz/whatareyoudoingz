@@ -27,14 +27,13 @@
 		<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 </div>
 <div align="center">
-	<h5>Used to</h5>
-		<img src="https://img.shields.io/badge/sklearn-276DC3?style=flat&logo=R&logoColor=white" />
-		<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
-	
+	<h5>What I've tried</h5>
+	<img src="https://img.shields.io/badge/sklearn-276DC3?style=flat&logo=R&logoColor=white" />
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 </div>
 
 <div align="center">
-	<h5>FullStack</h5>
+	<h4>FullStack</h4>
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
