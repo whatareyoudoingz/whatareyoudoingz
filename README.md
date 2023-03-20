@@ -22,7 +22,7 @@
 
 
 <div align="center">
-	<h5>DataScience</h5>
+	<h4>DataScience</h4>
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />	
 		<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 </div>
