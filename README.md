@@ -23,6 +23,7 @@
 ### **DataScience**
 
 <div align="center">
+	<h1>DataScience</h1>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />	
     	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 </div>
