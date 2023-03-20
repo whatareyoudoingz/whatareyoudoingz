@@ -14,7 +14,7 @@
 **기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)
 
 **현재**
-- 재활용 아이디어 웹개발 공부
+- 풀스택 개발 공부
 
 <br/>
 
@@ -25,6 +25,11 @@
 	<h5>DataScience</h5>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />	
     	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
+	
+	<h5>Used to</h5>
+	<img src="https://img.shields.io/badge/sklearn-276DC3?style=flat&logo=R&logoColor=white" />
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+	
 </div>
 
 <div align="center">
@@ -32,7 +37,7 @@
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=black" />
+	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 
