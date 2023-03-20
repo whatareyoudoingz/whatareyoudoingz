@@ -23,14 +23,12 @@
 
 <div align="center">
 	<h5>DataScience</h5>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />	
-    	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
-	
-	<br/>
+		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />	
+		<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 	
 	<h5>Used to</h5>
-	<img src="https://img.shields.io/badge/sklearn-276DC3?style=flat&logo=R&logoColor=white" />
-	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+		<img src="https://img.shields.io/badge/sklearn-276DC3?style=flat&logo=R&logoColor=white" />
+		<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 	
 </div>
 
