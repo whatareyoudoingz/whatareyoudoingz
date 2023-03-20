@@ -41,6 +41,8 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 
+<br/>
+
 ## **Tools**
 
 <div align="center">
@@ -50,12 +52,15 @@
 	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />	
 </div>
 
+<br/>
+
 ## **Communicate**
 
 <div align="center">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" />
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
+
 <br/>
 
 ## **Activity State**
