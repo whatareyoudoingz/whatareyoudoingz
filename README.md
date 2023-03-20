@@ -20,10 +20,9 @@
 
 ## **Tech Stack**
 
-### **DataScience**
 
 <div align="center">
-	<h1>DataScience</h1>
+	<h5>DataScience</h5>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />	
     	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 </div>
@@ -31,6 +30,7 @@
 ### **FullStack**
 
 <div align="center">
+	<h5>FullStack</h5>
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -46,7 +46,7 @@
 	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />	
 </div>
 
-## **Communication**
+## **Communicate**
 
 <div align="center">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" />
