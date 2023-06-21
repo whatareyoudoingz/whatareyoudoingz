@@ -14,7 +14,6 @@
 **기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)
 
 **🔝현재🔝**
-- ETRI 휴먼이해 인공지능 논문 경진대회 참가
 - 2023 데이터 청년 캠퍼스 을지대학교 과정 참가
 
 <br/>
