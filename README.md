@@ -14,7 +14,6 @@
 **기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)
 
 **🔝현재🔝**
-- 2023 데이터 청년 캠퍼스 을지대학교 과정 참가
 - 미니프로젝트[https://github.com/Dreamofheaven/inside_log](https://github.com/Dreamofheaven/inside_log)
 
 <br/>
