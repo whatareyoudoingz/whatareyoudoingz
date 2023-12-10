@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Jin%20Ah%20Kim&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=jin's$20github&fontSize=90)
 
  <br/>
 
