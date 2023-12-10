@@ -4,10 +4,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=jin's%20github&fontSize=90" alt="header">
-</p>
-
 ## **Profile**
 
 <div align="center">
