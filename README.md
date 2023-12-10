@@ -46,3 +46,4 @@
 
 ## **Project of Interest**
 - `프로메테우스 해커톤` : [https://github.com/Recycle-detection/recycle-project](https://github.com/Recycle-detection/recycle-project)
+- `pytorch` : [https://github.com/whatareyoudoingz/personal_projects?tab=readme-ov-file](https://github.com/whatareyoudoingz/personal_projects?tab=readme-ov-file)
