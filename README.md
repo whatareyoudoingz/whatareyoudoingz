@@ -43,3 +43,6 @@
 
 ---
 <br/>
+
+## **Project of Interest**
+- `프로메테우스 해커톤` : [https://github.com/Recycle-detection/recycle-project](https://github.com/Recycle-detection/recycle-project)
