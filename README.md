@@ -2,7 +2,7 @@
 
 ## **Activity State**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatareyoudoingz&layout=compact"> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatareyoudoingz&layout=compact)
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatareyoudoingz&show_icons=true&theme=shadow_green)
 
  <br/>
