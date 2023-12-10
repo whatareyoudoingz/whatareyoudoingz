@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome to my Github pages&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text="Welcome to my Github pages"&fontSize=70)
 
 안녕하세요! 
 저는 `데이터과학`을 전공하고 있는 대학생입니다!🙃 
