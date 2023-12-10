@@ -1,21 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github%20pages&fontSize=50)
-
-안녕하세요! 
-저는 `데이터과학`을 전공하고 있는 대학생입니다!🙃 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Jin%20Ah%20Kim&fontSize=50)
 
  <br/>
 
- ## **Profile**
- **MBTI** : INT(F)P
-
+## **Profile**
+**MBTI** : INT(F)P
+**전공** :  `데이터 과학`
 **관심기술** :  `컴퓨터 비전`
 
 **관심분야** : `환경` , `의료`
 
 **기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)
 
-**🔝현재🔝**
-- 인턴
+**🔝현재🔝** : 인턴
 
 <br/>
 
@@ -53,12 +49,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
-
-<br/>
-
-## **Activity State**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatareyoudoingz&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=whatareyoudoingz&show_icons=true">
+---
 
 <br/>
 
@@ -73,6 +64,7 @@
 - `2023.03 ~ 2023.06` : ETRI 제2회 휴먼이해 인공지능 논문 경진대회 참가
 - `2022.11 ~ 2023.05` : BDA 5기 데이터 분석 기초반 수료
 - `2023.06 ~ 2023.08` : 2023 데이터 청년 캠퍼스 을지대학교 과정 참가
+- `2023.02 ~ 2023.10` : 수원대학교 학부연구생 참여
 
 <br/>
 
@@ -92,3 +84,12 @@
 - `국민건강영양조사 데이터에서 대사증후군의 중요변수 선택에 대한 머신러닝과 통계분석의 비교` - 김승원, 서형준, **김진아**, 조우진, 안홍렬
 - `라이프로그 데이터를 활용한 수면의 질 추정에서의 주요 요인에 대한 연구` - **김진아**, 임지우, 홍승혁
 - `라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구` -**김진아**, 최치우, 홍승혁
+
+---
+<br/>
+
+## **Activity State**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatareyoudoingz&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=whatareyoudoingz&show_icons=true">
+
+<br/>
