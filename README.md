@@ -3,9 +3,7 @@
  <br/>
 
 ## **Profile**
-**MBTI** : INT(F)P
-
-**전공** :  `데이터 과학`
+**MBTI** : INT(F)P                                               **전공** :  `데이터 과학`
 
 **관심기술** :  `컴퓨터 비전`
 
@@ -51,6 +49,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
+
 ---
 
 <br/>
@@ -67,11 +66,6 @@
 - `2022.11 ~ 2023.05` : BDA 5기 데이터 분석 기초반 수료
 - `2023.06 ~ 2023.08` : 2023 데이터 청년 캠퍼스 을지대학교 과정 참가
 - `2023.02 ~ 2023.10` : 수원대학교 학부연구생 참여
-
-<br/>
-
-## **Certificate**
-- None
 
 <br/>
 
