@@ -3,11 +3,12 @@
  <br/>
 
 ## **Profile**
+
 	```
 	**MBTI** : INT(F)P
-	**전공** :  `데이터 과학`
-	**관심기술** :  `컴퓨터 비전`
-	**관심분야** : `환경` , `의료`
+	**전공** :  데이터 과학
+	**관심기술** :  컴퓨터 비전
+	**관심분야** : 환경 , 의료
 	**기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)
 	**🔝현재🔝** : 인턴
 	 ```
