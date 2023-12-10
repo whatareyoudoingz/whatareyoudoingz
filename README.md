@@ -15,7 +15,7 @@
 **기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)
 
 **🔝현재🔝**
-- 미니프로젝트 : [https://github.com/Dreamofheaven/inside_log](https://github.com/Dreamofheaven/inside_log)
+- 인턴
 
 <br/>
 
