@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=jin's%20github&fontSize=90)
+
+## **Activity State**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatareyoudoingz&layout=compact"> 
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatareyoudoingz&show_icons=true&theme=shadow_green)
 
  <br/>
@@ -80,10 +84,4 @@
 - `라이프로그와 슬립테크기기 기반 수면 질 지표의 머신러닝 연구` -**김진아**, 최치우, 홍승혁
 
 ---
-<br/>
-
-## **Activity State**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatareyoudoingz&layout=compact"> 
-
 <br/>
