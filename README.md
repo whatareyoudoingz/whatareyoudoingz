@@ -24,6 +24,7 @@
 		<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 		<img src="https://img.shields.io/badge/sklearn-276DC3?style=flat&logo=R&logoColor=white" />
 		<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+		<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=TensorFlow&logoColor=white" />
 </div>
 
 <div align="center">
