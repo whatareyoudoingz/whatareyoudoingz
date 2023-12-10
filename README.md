@@ -83,6 +83,9 @@
 
 ## **Activity State**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatareyoudoingz&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=whatareyoudoingz&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatareyoudoingz&layout=compact"> 
+<img src="https://github-readme-stats.vercel.app/api?username=whatareyoudoingz&show_icons=true">
+![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinah&show_icons=true&theme=gradient)
+
 
 <br/>
