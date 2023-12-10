@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=jin's%20github&fontSize=90)
-![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatareyoudoingz&show_icons=true&theme=gradient)
+![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatareyoudoingz&show_icons=true&theme=rose)
 
  <br/>
 
