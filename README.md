@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=jin's%20github&fontSize=90)
 
 ## **Profile**
-**MBTI** : INT(F)P
-**전공** :  데이터 과학
-**관심기술** :  컴퓨터 비전
-**관심분야** : 환경 , 의료
-**기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)
-**🔝현재🔝** : 인턴
+
+| ------------------ | ---------------------------------------- |
+| MBTI                | INT(F)P                               |
+| 전공               | 데이터 과학                                |
+| 관심기술          | 컴퓨터 비전                                |
+| 관심분야          | 환경, 의료                                |
+| 기술 블로그        | [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/) |
+| 🔝현재🔝           | 인턴                                      |
 
 <br/>
 
