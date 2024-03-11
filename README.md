@@ -1,3 +1,24 @@
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2; /* 헤더 행에 연한 회색 배경색 적용 */
+    }
+  </style>
+</head>
+
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=jin's%20github&fontSize=90)
