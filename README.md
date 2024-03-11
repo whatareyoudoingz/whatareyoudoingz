@@ -30,6 +30,81 @@
 <table>
   <tr>
     <td colspan="2">Career</td>
+    <td colspan="2">Awards</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>Detail</td>    
+    <td>Date</td>
+    <td>Detail</td>
+  </tr>
+    <tr>
+        <td><code>2022.03 ~ 2022.06</code></td> 
+        <td>K-water 대국민 물 빅데이터 공모전 참가</td>
+        <td><code>2022</code></td> 
+        <td><strong>데이콘</strong> Data Science 실무 역량 강화 교육 <code>발전상</code></td>
+    </tr>
+    <tr>
+        <td><code>2022.06 ~ 2022.08</code></td>
+        <td>수원대학교 & 데이콘 Data Science 실무 역량 강화 교육 참가</td>
+        <td></td> 
+        <td><strong>KISTI</strong> 연구데이터 분석활용 경진대회 <code>장려상</code></td>
+    </tr>
+    <tr>
+        <td><code>2022.07 ~ 2022.09</code></td>
+        <td>KISTI 연구데이터 분석활용 경진대회 참가</td>
+        <td><code>2023</code></td> 
+        <td><strong>데이터 청년 캠퍼스</strong> 을지대학교 과정 <code>우수상</code></td>
+    </tr>
+    <tr>
+        <td><code>2022.09 ~ 2023.02</code></td>
+        <td>수원대학교 DSML AL/SW Developers 1기 수료</td>
+        <td></td>
+        <td><strong>WISET</strong> 멘토링 <code>올해의 멘티상(이사장 상)</code></td>
+    </tr>
+    <tr>
+        <td><code>2022.10 ~ 2022.10</code></td>
+        <td>데이콘 자율주행 센서의 안테나 성능 예측 AI 경진대회 참가</td>
+        <td></td>
+        <td>한국소프트웨어종합학술대회(<strong>KSC2023</strong>) 학부생/주니어 논문경진대회 <code>학부생 부문 장려상</code></td>
+    </tr>
+    <tr>
+        <td><code>2022.11 ~ 2023.05</code></td>
+        <td><strong>BDA</strong> 5기 데이터 분석 기초반 수료</td>
+    </tr>
+    <tr>
+        <td><code>2022.12 ~ 2023.06</code></td>
+        <td>멀티캠퍼스 KDT 2기 풀스택 개발자 취업캠프(PYTHON) 수료</td>
+    </tr>
+    <tr>
+        <td><code>2023.02 ~ 2023.02</code></td>
+        <td>프로메데우스 스타트업 해커톤 수료</td>
+    </tr>
+    <tr>
+        <td><code>2023.02 ~ 2023.10</code></td>
+        <td><strong>수원대학교</strong> 학부연구생 참여</td>
+    </tr>
+    <tr>
+        <td><code>2023.03 ~ 2023.06</code></td>
+        <td>ETRI 제2회 휴먼이해 인공지능 논문 경진대회 참가</td>
+    </tr>
+    <tr>
+        <td><code>2023.06 ~ 2023.08</code></td>
+        <td><strong>데이터 청년 캠퍼스</strong> 을지대학교 과정 참가</td>
+    </tr>
+    <tr>
+        <td><code>2023.11 ~ 2023.12</code></td>
+        <td><strong>케어크루즈</strong> 인턴</td>
+    </tr>
+    <tr>
+        <td><code>2024.01 ~ 2024.02</code></td>
+        <td><strong>한국전자통신연구원(ETRI)</strong> 연구연수생</td>
+    </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="2">Career</td>
   </tr>
   <tr>
     <td>Date</td>
