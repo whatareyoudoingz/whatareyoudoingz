@@ -39,41 +39,54 @@
     <td>Detail</td>
   </tr>
     <tr>
-    <td>`2022.03 ~ 2022.06`
-        <br> `2022.06 ~ 2022.08`
-        <br> `2022.07 ~ 2022.09`
-        <br> `2022.09 ~ 2023.02`
-        <br> `2022.10 ~ 2022.10`
-        <br> `2022.11 ~ 2023.05`
-        <br> `2022.12 ~ 2023.06`
-        <br> `2023.02 ~ 2023.02`
-        <br> `2023.02 ~ 2023.10`
-        <br> `2023.03 ~ 2023.06`
-        <br> `2023.06 ~ 2023.08`
-        <br> `2023.11 ~ 2023.12`
-        <br> `2024.01 ~ 2024.02`
+    <td>
+        <code>2022.03 ~ 2022.06</code>
+        <br> <code>2022.06 ~ 2022.08</code>
+        <br> <code>2022.07 ~ 2022.09</code> 
+        <br> <code>2022.09 ~ 2023.02</code> 
+        <br> <code>2022.10 ~ 2022.10</code> 
+        <br> <code>2022.11 ~ 2023.05</code> 
+        <br> <code>2022.12 ~ 2023.06</code> 
+        <br> <code>2023.02 ~ 2023.02</code>
+        <br> <code>2023.02 ~ 2023.10</code> 
+        <br> <code>2023.03 ~ 2023.06</code> 
+        <br> <code>2023.06 ~ 2023.08</code> 
+        <br> <code>2023.11 ~ 2023.12</code> 
+        <br> <code>2024.01 ~ 2024.02</code> 
     </td>
-    <td>K-water 대국민 물 빅데이터 공모전 참가
+    <td>
+        K-water 대국민 물 빅데이터 공모전 참가
         <br> 수원대학교 & 데이콘 Data Science 실무 역량 강화 교육 참가
         <br> KISTI 연구데이터 분석활용 경진대회 참가
         <br> 수원대학교 DSML AL/SW Developers 1기 수료
         <br> 데이콘 자율주행 센서의 안테나 성능 예측 AI 경진대회 참가
-        <br> **BDA** 5기 데이터 분석 기초반 수료
+        <br> <strong>BDA</strong> 5기 데이터 분석 기초반 수료
         <br> 멀티캠퍼스 KDT 2기 풀스택 개발자 취업캠프(PYTHON) 수료
         <br> 프로메데우스 스타트업 해커톤 수료
-        <br> **수원대학교** 학부연구생 참여
-        <br> ETRI 제2회 휴먼이해 인공지능 논문 경진대회 참가
-        <br> **데이터 청년 캠퍼스** 을지대학교 과정 참가
-        <br> **케어크루즈** 인턴
-        <br> **한국전자통신연구원** 연구연수생
-  </tr>
-    <tr>
-    <td>내용</td>
-    <td>내용</td>    
-    <td>내용</td>
-    <td>내용</td>
+        <br> <strong>수원대학교</strong> 학부연구생 참여
+        <br> ETRI 제2회 휴먼이해 인공지능 논문 경진대회 참가 
+        <br> <strong>데이터 청년 캠퍼스</strong> 을지대학교 과정 참가
+        <br> <strong>케어크루즈</strong> 인턴
+        <br> <strong>한국전자통신연구원(ETRI)</strong> 연구연수생
+    </td>
+    <td>
+        <code>2022</code>
+        <br> 
+        <br>
+        <code>2023</code>
+        <br>  
+        <br>  
+    </td>
+    <td>
+        <strong>데이콘</strong> Data Science 실무 역량 강화 교육 <code>발전상</code>
+        <br> <strong>KISTI</strong> 연구데이터 분석활용 경진대회 <code>장려상</code>
+        <br> <strong>데이터 청년 캠퍼스</strong> 을지대학교 과정 <code>우수상</code>
+        <br> <strong>WISET</strong> 멘토링 <code>올해의 멘티상(이사장 상)</code>
+        <br> 한국소프트웨어종합학술대회(<strong>KSC2023</strong>) 학부생/주니어 논문경진대회 <code>학부생 부문 장려상</code>
+    </td>
   </tr>
 </table>
+
 ## **Career and Awards**
 
 | **Career** | **Awards** |
