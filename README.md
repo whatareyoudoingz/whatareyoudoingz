@@ -10,7 +10,7 @@
   
 **MBTI** : INT(F)P  
 **전공** :  데이터 과학  
-**관심기술** :  컴퓨터 비전  
+**관심기술** :  데이터 분석, 컴퓨터 비전  
 **관심분야** : 환경, 공공안전  
 **기술 블로그** : [https://whatareyoudoingz.github.io/](https://whatareyoudoingz.github.io/)  
 **🔝현재🔝** : 
